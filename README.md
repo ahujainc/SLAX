@@ -1,6 +1,7 @@
-# SLAX
-Matlab Code for implementing SLAX
-% Filename: Readme.txt
+# SLAX:
+An Approximation Approach for Response Adaptive Clinical Trial Design (https://ssrn.com/abstract=3212148)
+Matlab Code for implementing SLAX for the 
+by Vishal Ahuja and John R. Birge
 
 Main function file: "mainfun_SLAX" - this function is the main function and calls the following functions:
 1) fun_ap_sim_B
